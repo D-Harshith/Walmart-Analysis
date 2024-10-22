@@ -5,7 +5,7 @@ This project is a Tableau dashboard that analyzes Walmart sales data. The dashbo
 
 ## Files Included
 - `Walmart_Sales_Analysis.twbx` - Tableau packaged workbook containing the dashboard.
-- `Sales_Data.csv` - Dataset used for the analysis (if shareable).
+- `Sales_Data.csv` - Dataset used for the analysis.
 - `Dashboard_Screenshot.png` - Screenshot of the Tableau dashboard for preview.
 
 ## Key Insights
